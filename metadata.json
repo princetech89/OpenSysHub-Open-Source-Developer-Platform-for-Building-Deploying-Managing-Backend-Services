@@ -1,0 +1,5 @@
+{
+  "name": "OpenSysHub",
+  "description": "A production-grade, open-source backend platform for building, deploying, and managing RESTful services with Linux-level insights.",
+  "requestFramePermissions": []
+}
